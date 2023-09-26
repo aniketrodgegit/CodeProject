@@ -72,10 +72,6 @@ public class BaseClass
 
 	@AfterMethod()
 	public void closeBrowser() {
-<<<<<<< HEAD
-		
-=======
 		driver.quit();
->>>>>>> 607f22e5fdb74cc35f8d1bb37f4796a65195538c
 	}
 }
