@@ -67,7 +67,7 @@ public class BaseClass
 		File destination= new File(".//target//abc.png");
 		Files.copy(source, destination);
 	}
-//
+
 
 	@AfterMethod()
 	public void closeBrowser() {
