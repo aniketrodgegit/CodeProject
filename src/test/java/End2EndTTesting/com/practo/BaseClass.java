@@ -2,7 +2,7 @@ package End2EndTTesting.com.practo;
 
 import java.io.File;
 import java.io.IOException;
-import java.time.Duration;
+import java.time.*;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
